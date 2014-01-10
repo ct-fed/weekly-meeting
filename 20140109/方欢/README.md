@@ -3,7 +3,7 @@
 ------
 
 ###版本说明：
-此版本属于版本迭代。主要围绕\[超级联赛](http://www.saiqu.com/league/)以及\[俱乐部](http://www.saiqu.com/club/1.html)做相应开发。
+此版本属于版本迭代。主要围绕[超级联赛](http://www.saiqu.com/league/)以及[俱乐部](http://www.saiqu.com/club/1.html)做相应开发。
 
 ###升级摘要：
 新增: 超级联赛栏目、俱乐部栏目、用户头像上传功能、联赛比赛详情、联赛比赛结果
