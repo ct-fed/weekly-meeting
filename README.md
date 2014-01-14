@@ -1,4 +1,4 @@
-快捷链接：[Widget](http://ct-fed.github.io/widget/)　[WIKI](/ct-fed/weekly-meeting/wiki)　[每日一题](/ct-fed/weekly-meeting/issues?labels=每日一题&page=1&state=open)
+快捷链接：[Widget](http://ct-fed.github.io/widget/)　[WIKI](https://github.com/ct-fed/weekly-meeting/wiki)　[每日一题](https://github.com/ct-fed/weekly-meeting/issues?labels=每日一题&page=1&state=open)
 
 ## 前端小分队周会记录
 
