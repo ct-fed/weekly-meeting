@@ -1,0 +1,44 @@
+﻿/*table_header*/
+.table_header_wrap{
+	height:30px;
+	background:#f5f5f5;
+}
+.table_header{
+	width:100%;
+	font:13px/15px helvetica, arial, verdana, sans-serif;
+	background:#f5f5f5;
+	color:#666;
+}
+.table_header th{
+	height:30px;
+	padding:0 5px;
+	border:1px solid #c1c1c1;
+	font-weight:bold;
+}
+/*table_body*/
+.table_con_wrap{
+	overflow:auto;
+}
+.table_con{
+	width:100%;
+}
+.table_con tr:hover td
+{
+    background:#E2EFF8;
+}
+.table_con td{
+	padding:3px 5px;
+	border:1px solid #dedede;
+	border-top:none;
+	line-height: 19px;
+	vertical-align:text-top;
+    word-break:break-all;
+}
+.table_con .tr_on td
+{
+    background:#C1DDF1;
+}
+.table_con .tr_on:hover td
+{
+    background:#C1DDF1;
+}

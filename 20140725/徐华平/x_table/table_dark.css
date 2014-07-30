@@ -1,0 +1,80 @@
+﻿/**********table***********/
+/*table_header*/
+.table_header_wrap{
+	height:30px;
+	background:#454545;
+}
+.table_header{
+	width:100%;
+	font:13px/15px helvetica, arial, verdana, sans-serif;
+	background:#454545;
+	color:#fff;
+}
+.table_header th{
+	height:30px;
+	padding:0 5px;
+	border:1px solid #595959;
+	font-weight:bold;
+}
+/*table_body*/
+.table_con_wrap{
+	overflow:auto;
+    background:#4d4d4d;
+    /*
+    background-color:#fff;
+    overflow-x:hidden;
+    scrollbar-face-color:#fff;
+    scrollbar-shadow-color:#fff;
+    scrollbar-highlight-color:#ccc;
+    scrollbar-3dlight-color:#fff;
+    scrollbar-arrow-color:#f00;
+    scrollbar-track-color:#fff;*/
+}
+.table_con{
+	width:100%;
+}
+.table_con tr:hover td
+{
+    color:#fc3;
+    background:#000;
+}
+.table_con td{
+	padding:3px 5px;
+	border:1px solid #595959;
+	border-top:none;
+	line-height: 19px;
+	vertical-align:text-top;
+    word-break:break-all;
+    color:#e4e4e4;
+}
+.table_con .tr_on td
+{
+    color:#fc3;
+    font-weight:bold;
+    background:#000;
+}
+.table_con .tr_on:hover td
+{
+    background:#000;
+}
+
+/* 设置滚动条的样式 */
+/*::-webkit-scrollbar {
+    width: 12px;
+}*/
+
+/* 滚动槽 
+::-webkit-scrollbar-track {
+    box-shadow: inset 0 0 6px rgba(0,0,0,0.3); 
+    border-radius: 10px;
+}
+ 
+ 滚动条滑块 
+::-webkit-scrollbar-thumb {
+    border-radius: 10px;
+    background: rgba(0,0,0,0.1); 
+    -webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.5); 
+}
+::-webkit-scrollbar-thumb:window-inactive {
+    background: rgba(255,0,0,0.4); 
+}*/
